@@ -1,0 +1,10 @@
+# Binaries
+bin/
+main
+watcher
+
+# Environment
+.env
+
+# Dependencies
+vendor/
